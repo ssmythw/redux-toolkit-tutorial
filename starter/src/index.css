@@ -19,7 +19,7 @@ Variables
   --radius: 0.25rem;
   --large-screen-width: 1170px;
   --small-screen-width: 90vw;
-  --fixed-width: 1424px;
+  --fixed-width: 1024px;
 }
 * {
   margin: 0;
